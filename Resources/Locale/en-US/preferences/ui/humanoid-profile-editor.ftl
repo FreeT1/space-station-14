@@ -36,6 +36,6 @@ humanoid-profile-editor-job-priority-high-button = High
 humanoid-profile-editor-job-priority-medium-button = Medium
 humanoid-profile-editor-job-priority-low-button = Low
 humanoid-profile-editor-job-priority-never-button = Never
-humanoid-profile-editor-naming-rules-warning = Warning: Metaplayers and NoRP names will be raped and killed. Read our \[Rules\] for more threats.
+humanoid-profile-editor-naming-rules-warning = Warning: Metaplayers and NoRP names will be psychologically tortured. Read our \[Rules\] for more threats.
 humanoid-profile-editor-markings-tab = Markings
 humanoid-profile-editor-flavortext-tab = Description
