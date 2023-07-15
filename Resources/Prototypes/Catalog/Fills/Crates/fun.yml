@@ -122,6 +122,14 @@
       - id: ReverseCymbalsInstrument
 
 - type: entity
+  id: CrateFunInstrumentsEvil
+  parent: CrateGenericSteel
+  components:
+  - type: StorageFill
+    contents:
+     - id: SuperSynthesizerInstrument
+
+- type: entity
   id: CrateFunArtSupplies
   parent: CrateGenericSteel
   components:
