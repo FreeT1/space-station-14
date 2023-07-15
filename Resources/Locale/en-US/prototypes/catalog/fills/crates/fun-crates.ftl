@@ -19,6 +19,9 @@ ent-CrateFunInstrumentsKeyedPercussion = Keyed/Percussion instrument ensemble cr
 ent-CrateFunInstrumentsSpecial = Special instrument collector's crate
     .desc = Create some noise with this special collection of arguably-instruments! Centcomm is not responsible for any trauma caused by the contents.
 
+ent-CrateFunInstrumentsEvil = Limited Edition Synthesizer crate
+    .desc = A limited edition, collector's only, super rare, buzzword edition Super Synthesizer! Banned in over 892 stations and void habitats.
+
 ent-CrateFunArtSupplies = Art supplies
     .desc = Make some happy little accidents with lots of crayons!
 

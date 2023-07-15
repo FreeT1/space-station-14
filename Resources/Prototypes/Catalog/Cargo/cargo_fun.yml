@@ -59,6 +59,16 @@
   group: market
 
 - type: cargoProduct
+  id: FunInstrumentsEvil
+  icon:
+    sprite: Objects/Fun/Instruments/h_synthesizer.rsi
+    state: icon
+  product: CrateFunInstrumentsEvil
+  cost: 30000
+  category: Fun
+  group: market
+
+- type: cargoProduct
   id: FunArtSupplies
   icon:
     sprite: Objects/Fun/crayons.rsi
